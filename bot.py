@@ -18,4 +18,4 @@ async def on_member_remove(member):
 async def ping(ctx):
     await ctx.send(f"Hey! I am up and running with a ping of {round(client.latency*1000)}ms.")
 
-client.run('')   #Place token between the ''
+client.run('ODY0ODk1MDEzNDQ0MjU1NzQ1.YO8GQA.ylauKTOkmELOKfrhFVAelhdGEoU')   #Place token between the ''
